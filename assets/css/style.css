@@ -639,6 +639,12 @@ body.loaded {
 
 }
 
+@media (max-width: 413px) {
+  .input-wrapper{
+    bottom: 10rem;
+  }
+}
+
 
 
 
